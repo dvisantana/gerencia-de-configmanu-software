@@ -1,0 +1,11 @@
+{
+  "name": "projeto-exemplo",
+  "version": "1.0.0",
+  "description": "Primeiro projeto para demonstracao de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davi Santana, Igor Sena e Victor Tlaes",
+  "license": "ISC"
+}
